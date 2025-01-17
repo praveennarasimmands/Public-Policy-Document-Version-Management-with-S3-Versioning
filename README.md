@@ -119,6 +119,9 @@ This project is licensed under the MIT License.
 
 ## **Connect on LinkedIn**
 
-For inquiries, collaborations, or to discuss technical details, feel free to connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+For inquiries, collaborations, or to discuss technical details, feel free to connect with me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/praveennarasimman/)
+
 
 ---
